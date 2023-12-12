@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095470955113",
+    "project_id": "development-talent-dna",
+    "storage_bucket": "development-talent-dna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095470955113:android:cbf8ebdac1e72220b800f8",
+        "android_client_info": {
+          "package_name": "id.meteor.talent_dna_dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmgj-_g9S79ZLKGfU5JT0q5ctw9CVxzvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
